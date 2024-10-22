@@ -10,16 +10,6 @@
 
 - [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability)
 - [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5)
-- [CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490)
-- [CVE-2024-9491](https://www.cve.org/CVERecord?id=CVE-2024-9491)
-- [CVE-2024-9492](https://www.cve.org/CVERecord?id=CVE-2024-9492)
-- [CVE-2024-9493](https://www.cve.org/CVERecord?id=CVE-2024-9493)
-- [CVE-2024-9494](https://www.cve.org/CVERecord?id=CVE-2024-9494)
-- [CVE-2024-9495](https://www.cve.org/CVERecord?id=CVE-2024-9495)
-- [CVE-2024-9496](https://www.cve.org/CVERecord?id=CVE-2024-9496)
-- [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497)
-- [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498)
-- [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499)
 
 
 
