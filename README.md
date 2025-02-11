@@ -22,7 +22,9 @@
 | **Silicon Labs**🚀 | [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497) |
 | **Silicon Labs**🚀 | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
 | **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
+| **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
 | **Carrier**🚀 | **RESERVED**  | 
+
 
 <hr>
 
