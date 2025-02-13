@@ -8,24 +8,24 @@
 
 ### 🎯 **CVEs**🏆
 
-| **Vendor**        | **CVE ID**                                                                                          |
-|--------------------|----------------------------------------------------------------------------------------------------|
-| **Dell** 🚀       | [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability) |
-| **Tosibox** 🚀    | [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5) |
-| **Silicon Labs** 🚀 | [CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490) |
-| **Silicon Labs** 🚀 | [CVE-2024-9491](https://www.cve.org/CVERecord?id=CVE-2024-9491) |  
-| **Silicon Labs** 🚀 | [CVE-2024-9492](https://www.cve.org/CVERecord?id=CVE-2024-9492) |
-| **Silicon Labs** 🚀 | [CVE-2024-9493](https://www.cve.org/CVERecord?id=CVE-2024-9493) |
-| **Silicon Labs** 🚀 | [CVE-2024-9494](https://www.cve.org/CVERecord?id=CVE-2024-9494) |
-| **Silicon Labs**🚀 | [CVE-2024-9495](https://www.cve.org/CVERecord?id=CVE-2024-9495) |
-| **Silicon Labs**🚀 | [CVE-2024-9496](https://www.cve.org/CVERecord?id=CVE-2024-9496) |
-| **Silicon Labs**🚀 | [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497) |
-| **Silicon Labs**🚀 | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
-| **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
-| **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
-| **Trend Micro**🚀 | **RESERVED**  |
-| **Trend Micro**🚀 | **RESERVED**  |
-| **Carrier**🚀 | **RESERVED**  | 
+| No.  | **Vendor**        | **CVE ID**                                                                                          |
+|---|--------------------|----------------------------------------------------------------------------------------------------|
+| 𝟙 | **Dell** 🚀       | [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability) |
+| 𝟚 | **Tosibox** 🚀    | [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5) |
+| 𝟛 | **Silicon Labs** 🚀 | [CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490) |
+| 𝟜 | **Silicon Labs** 🚀 | [CVE-2024-9491](https://www.cve.org/CVERecord?id=CVE-2024-9491) |  
+| 𝟝 | **Silicon Labs** 🚀 | [CVE-2024-9492](https://www.cve.org/CVERecord?id=CVE-2024-9492) |
+| 𝟞 | **Silicon Labs** 🚀 | [CVE-2024-9493](https://www.cve.org/CVERecord?id=CVE-2024-9493) |
+| 𝟟 | **Silicon Labs** 🚀 | [CVE-2024-9494](https://www.cve.org/CVERecord?id=CVE-2024-9494) |
+| 𝟠 | **Silicon Labs**🚀 | [CVE-2024-9495](https://www.cve.org/CVERecord?id=CVE-2024-9495) |
+| 𝟡 | **Silicon Labs**🚀 | [CVE-2024-9496](https://www.cve.org/CVERecord?id=CVE-2024-9496) |
+| 𝟙𝟘 | **Silicon Labs**🚀 | [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497) |
+| 𝟙𝟙 | **Silicon Labs**🚀 | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
+| 𝟙𝟚 | **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
+| 𝟙𝟛 | **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
+| 𝟙𝟜 | **Trend Micro**🚀 | **RESERVED**  |
+| 𝟙𝟝 | **Trend Micro**🚀 | **RESERVED**  |
+| 𝟙𝟞 | **Carrier**🚀 | **RESERVED**  | 
 
 
 <hr>
