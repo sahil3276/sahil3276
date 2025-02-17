@@ -23,9 +23,8 @@
 | 𝟙𝟙 | **Silicon Labs**🚀 | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
 | 𝟙𝟚 | **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
 | 𝟙𝟛 | **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
-| 𝟙𝟜 | **Trend Micro**🚀 | **RESERVED**  |
-| 𝟙𝟝 | **Trend Micro**🚀 | **RESERVED**  |
-| 𝟙𝟞 | **Carrier**🚀 | **RESERVED**  | 
+| 𝟙𝟜 | **Trend Micro-TXOne**🚀 | [CVE-2024-47935](https://www.txone.com/psirt/advisories/cve-2024-47935/)  |
+| 𝟙𝟝 | **Carrier**🚀 | **RESERVED**  | 
 
 
 <hr>
