@@ -24,11 +24,11 @@
 | 𝟙𝟚 | **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
 | 𝟙𝟛 | **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
 | 𝟙𝟜 | **Trend Micro-TXOne**🚀 | [CVE-2024-47935](https://www.txone.com/psirt/advisories/cve-2024-47935/)  |
-|𝟙𝟝 | **Hitachi**🚀| [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
-|𝟙𝟞 | **Hitachi**🚀| [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
+| 𝟙𝟝 | **Hitachi**🚀| [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
+| 𝟙𝟞 | **Hitachi**🚀| [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
 | 𝟙𝟟 | **Carrier**🚀 | [CVE-2024-10930](https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-01)  | 
 | 𝟙𝟠 | **Confidential**🚀 | **Reserved :)**  | 
-
+| 𝟙𝟡 | **Confidential**🚀 | **Reserved :)**  | 
 
 <hr>
 
