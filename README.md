@@ -27,7 +27,7 @@
 | 𝟙𝟝 | **Hitachi**🚀| [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
 | 𝟙𝟞 | **Hitachi**🚀| [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
 | 𝟙𝟟 | **Carrier**🚀 | [CVE-2024-10930](https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-01)  | 
-| 𝟙𝟠 | **Confidential**🚀 | **Reserved :)**  | 
+| 𝟙𝟠 | **Motorola**🚀 | [CVE-2025-1700](https://www.cve.org/CVERecord?id=CVE-2025-1700)  | 
 | 𝟙𝟡 | **Confidential**🚀 | **Reserved :)**  | 
 
 <hr>
