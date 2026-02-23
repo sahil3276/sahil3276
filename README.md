@@ -8,34 +8,36 @@
 
 ### 🎯 **CVEs**🏆
 
-| Count.  | **Vendor**        | **CVE ID**                                                                                          |
-|---|--------------------|----------------------------------------------------------------------------------------------------|
-| 𝟙 | **Dell** 🚀       | [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability) |
-| 𝟚 | **Tosibox** 🚀    | [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5) |
-| 𝟛 | **Silicon Labs** 🚀 | [CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490) |
-| 𝟜 | **Silicon Labs** 🚀 | [CVE-2024-9491](https://www.cve.org/CVERecord?id=CVE-2024-9491) |  
-| 𝟝 | **Silicon Labs** 🚀 | [CVE-2024-9492](https://www.cve.org/CVERecord?id=CVE-2024-9492) |
-| 𝟞 | **Silicon Labs** 🚀 | [CVE-2024-9493](https://www.cve.org/CVERecord?id=CVE-2024-9493) |
-| 𝟟 | **Silicon Labs** 🚀 | [CVE-2024-9494](https://www.cve.org/CVERecord?id=CVE-2024-9494) |
-| 𝟠 | **Silicon Labs**🚀 | [CVE-2024-9495](https://www.cve.org/CVERecord?id=CVE-2024-9495) |
-| 𝟡 | **Silicon Labs**🚀 | [CVE-2024-9496](https://www.cve.org/CVERecord?id=CVE-2024-9496) |
-| 𝟙𝟘 | **Silicon Labs**🚀 | [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497) |
-| 𝟙𝟙 | **Silicon Labs**🚀 | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
-| 𝟙𝟚 | **Silicon Labs**🚀 | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
-| 𝟙𝟛 | **Kape by Eric Zimmerman**🚀 | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
-| 𝟙𝟜 | **Trend Micro-TXOne**🚀 | [CVE-2024-47935](https://www.txone.com/psirt/advisories/cve-2024-47935/)  |
-| 𝟙𝟝 | **Hitachi**🚀| [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
-| 𝟙𝟞 | **Hitachi**🚀| [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
-| 𝟙𝟟 | **Carrier**🚀 | [CVE-2024-10930](https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-01)  | 
-| 𝟙𝟠 | **Motorola**🚀 | [CVE-2025-1700](https://www.cve.org/CVERecord?id=CVE-2025-1700)  | 
-| 𝟙𝟡 | **Confidential**🚀 | **Reserved :)**  | 
-
+| #  | Vendor | CVE ID |
+|----|--------|--------|
+| 1  | **Siemens (72 Products)** | [CVE-2025-30033](https://cert-portal.siemens.com/productcert/html/ssa-282044.html) |
+| 2  | **Motorola** | [CVE-2025-1700](https://www.cve.org/CVERecord?id=CVE-2025-1700) |
+| 3  | **Dell** | [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability) |
+| 4  | **Tosibox** | [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5) |
+| 5  | **Silicon Labs** | [CVE-2024-9490](https://www.cve.org/CVERecord?id=CVE-2024-9490) |
+| 6  | **Silicon Labs** | [CVE-2024-9491](https://www.cve.org/CVERecord?id=CVE-2024-9491) |
+| 7  | **Silicon Labs** | [CVE-2024-9492](https://www.cve.org/CVERecord?id=CVE-2024-9492) |
+| 8  | **Silicon Labs** | [CVE-2024-9493](https://www.cve.org/CVERecord?id=CVE-2024-9493) |
+| 9  | **Silicon Labs** | [CVE-2024-9494](https://www.cve.org/CVERecord?id=CVE-2024-9494) |
+| 10 | **Silicon Labs** | [CVE-2024-9495](https://www.cve.org/CVERecord?id=CVE-2024-9495) |
+| 11 | **Silicon Labs** | [CVE-2024-9496](https://www.cve.org/CVERecord?id=CVE-2024-9496) |
+| 12 | **Silicon Labs** | [CVE-2024-9497](https://www.cve.org/CVERecord?id=CVE-2024-9497) |
+| 13 | **Silicon Labs** | [CVE-2024-9498](https://www.cve.org/CVERecord?id=CVE-2024-9498) |
+| 14 | **Silicon Labs** | [CVE-2024-9499](https://www.cve.org/CVERecord?id=CVE-2024-9499) |
+| 15 | **Kape (Eric Zimmerman Tools)** | [CVE-2024-55347](https://www.cve.org/CVERecord?id=CVE-2024-55347) |
+| 16 | **Trend Micro TXOne** | [CVE-2024-47935](https://www.txone.com/psirt/advisories/cve-2024-47935/) |
+| 17 | **Hitachi** | [CVE-2024-57963](https://www.cve.org/CVERecord?id=CVE-2024-57963) |
+| 18 | **Hitachi** | [CVE-2024-57964](https://www.cve.org/CVERecord?id=CVE-2024-57964) |
+| 19 | **Carrier** | [CVE-2024-10930](https://www.cisa.gov/news-events/ics-advisories/icsa-25-063-01) |
+| 20 | **LiveStream Producer (Reserved)** | [CVE-2025-29356](https://www.cve.org/CVERecord?id=CVE-2025-29356) |
 <hr>
 
 ### 📩 Read My Blogs
 
 - [Amass Part-1](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-1-0521ddbee8cc)
 - [Amass Part-2](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-2-292b7fab6618)
+- [S3 Bucket Enumeration](https://sahil3276.medium.com/aws-s3-bucket-hacking-101-from-enumeration-to-exploitation-e3e2a2948eba)
+
 
 <hr>
 
@@ -67,10 +69,7 @@
 <hr>
 
 ### My Success Timeline
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sahil3276&repo=my-success-timeline)](https://github.com/sahil3276/my-success-timeline)
-
-
+[![Repo Card](https://gh-card.dev/repos/sahil3276/my-success-timeline.svg)](https://github.com/sahil3276/my-success-timeline)
 
 <hr>
 
